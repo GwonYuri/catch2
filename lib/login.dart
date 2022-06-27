@@ -78,6 +78,7 @@ class _loginState extends State<login> {
                   ),
                 ),
                 SizedBox(height: 31.h),
+
                 SizedBox(
                   height: 86.h,
                   child: TextFormField(
