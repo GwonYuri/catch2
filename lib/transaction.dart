@@ -17,7 +17,7 @@ class _TransactionState extends State<Transaction>{
   Widget build(BuildContext context){
     return Scaffold(
       body: Stack(
-
+        // 내일 더 열심히 할게요!!
         //
         //
         //
