@@ -18,7 +18,7 @@ class _TransactionState extends State<Transaction>{
     return Scaffold(
       body: Stack(
         // 내일 더 열심히 할게요!!
-        //
+        // 살려주세요... 피곤해요...
         //
         //
       )
